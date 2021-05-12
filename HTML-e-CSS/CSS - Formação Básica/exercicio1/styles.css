@@ -1,9 +1,0 @@
-/* O CSS lida com a aparência e estilização da página, como por exemplo as fontes e as cores utilizadas. */
-/* São folhas de estilos em cascata, utilizadas para lidar com a aparência da disposção do conteúdo, adicionndo estilos a um conteúdo da web.  */
-
-.footer {
-    background-color: yellow;
-}
-h1 {
-    color: yellow;
-}
