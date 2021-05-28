@@ -1,5 +1,5 @@
-## Descubra o CSS
-Arquivos de Exercícios para o curso Descubra o CSS presente na plataforma LinkedIn Learning.
+## HTML, CSS e Javascript
+Arquivos de Exercícios para dos cursos de HTML, CSS e Javascript presente na plataforma LinkedIn Learning.
 
 ## Descrição do Curso
 Depois de aprender o básico de HTML, é hora de começar a explorar o Cascading Style Sheets (CSS).
